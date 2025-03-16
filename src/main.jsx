@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 import {BrowserRouter} from 'react-router-dom'
-import AdimContextProvider from './context/adminContext.jsx'
+import AdimContextProvider from './context/AdminContext.jsx'
 import DoctorContextProvider from './context/DoctorConext.jsx'
 import AppContextProvider from './context/AppContext.jsx'
 
